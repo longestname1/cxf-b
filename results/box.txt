@@ -17,7 +17,7 @@ model		: 62
 model name	: Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz
 stepping	: 4
 microcode	: 0x428
-cpu MHz		: 2800.084
+cpu MHz		: 2793.370
 cache size	: 25600 KB
 physical id	: 0
 siblings	: 16
@@ -30,7 +30,7 @@ fpu_exception	: yes
 cpuid level	: 13
 wp		: yes
 flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology eagerfpu pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm xsaveopt fsgsbase smep erms
-bogomips	: 5600.16
+bogomips	: 5586.74
 clflush size	: 64
 cache_alignment	: 64
 address sizes	: 46 bits physical, 48 bits virtual
@@ -43,7 +43,7 @@ model		: 62
 model name	: Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz
 stepping	: 4
 microcode	: 0x428
-cpu MHz		: 2800.084
+cpu MHz		: 2793.370
 cache size	: 25600 KB
 physical id	: 0
 siblings	: 16
@@ -56,7 +56,7 @@ fpu_exception	: yes
 cpuid level	: 13
 wp		: yes
 flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology eagerfpu pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm xsaveopt fsgsbase smep erms
-bogomips	: 5600.16
+bogomips	: 5586.74
 clflush size	: 64
 cache_alignment	: 64
 address sizes	: 46 bits physical, 48 bits virtual
@@ -69,7 +69,7 @@ model		: 62
 model name	: Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz
 stepping	: 4
 microcode	: 0x428
-cpu MHz		: 2800.084
+cpu MHz		: 2793.370
 cache size	: 25600 KB
 physical id	: 0
 siblings	: 16
@@ -82,7 +82,7 @@ fpu_exception	: yes
 cpuid level	: 13
 wp		: yes
 flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology eagerfpu pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm xsaveopt fsgsbase smep erms
-bogomips	: 5600.16
+bogomips	: 5586.74
 clflush size	: 64
 cache_alignment	: 64
 address sizes	: 46 bits physical, 48 bits virtual
@@ -95,7 +95,7 @@ model		: 62
 model name	: Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz
 stepping	: 4
 microcode	: 0x428
-cpu MHz		: 2800.084
+cpu MHz		: 2793.370
 cache size	: 25600 KB
 physical id	: 0
 siblings	: 16
@@ -108,7 +108,7 @@ fpu_exception	: yes
 cpuid level	: 13
 wp		: yes
 flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology eagerfpu pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm xsaveopt fsgsbase smep erms
-bogomips	: 5600.16
+bogomips	: 5586.74
 clflush size	: 64
 cache_alignment	: 64
 address sizes	: 46 bits physical, 48 bits virtual
@@ -121,7 +121,7 @@ model		: 62
 model name	: Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz
 stepping	: 4
 microcode	: 0x428
-cpu MHz		: 2800.084
+cpu MHz		: 2793.370
 cache size	: 25600 KB
 physical id	: 0
 siblings	: 16
@@ -134,7 +134,7 @@ fpu_exception	: yes
 cpuid level	: 13
 wp		: yes
 flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology eagerfpu pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm xsaveopt fsgsbase smep erms
-bogomips	: 5600.16
+bogomips	: 5586.74
 clflush size	: 64
 cache_alignment	: 64
 address sizes	: 46 bits physical, 48 bits virtual
@@ -147,7 +147,7 @@ model		: 62
 model name	: Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz
 stepping	: 4
 microcode	: 0x428
-cpu MHz		: 2800.084
+cpu MHz		: 2793.370
 cache size	: 25600 KB
 physical id	: 0
 siblings	: 16
@@ -160,7 +160,7 @@ fpu_exception	: yes
 cpuid level	: 13
 wp		: yes
 flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology eagerfpu pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm xsaveopt fsgsbase smep erms
-bogomips	: 5600.16
+bogomips	: 5586.74
 clflush size	: 64
 cache_alignment	: 64
 address sizes	: 46 bits physical, 48 bits virtual
@@ -173,7 +173,7 @@ model		: 62
 model name	: Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz
 stepping	: 4
 microcode	: 0x428
-cpu MHz		: 2800.084
+cpu MHz		: 2793.370
 cache size	: 25600 KB
 physical id	: 0
 siblings	: 16
@@ -186,7 +186,7 @@ fpu_exception	: yes
 cpuid level	: 13
 wp		: yes
 flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology eagerfpu pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm xsaveopt fsgsbase smep erms
-bogomips	: 5600.16
+bogomips	: 5586.74
 clflush size	: 64
 cache_alignment	: 64
 address sizes	: 46 bits physical, 48 bits virtual
@@ -199,7 +199,7 @@ model		: 62
 model name	: Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz
 stepping	: 4
 microcode	: 0x428
-cpu MHz		: 2800.084
+cpu MHz		: 2793.370
 cache size	: 25600 KB
 physical id	: 0
 siblings	: 16
@@ -212,7 +212,7 @@ fpu_exception	: yes
 cpuid level	: 13
 wp		: yes
 flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology eagerfpu pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm xsaveopt fsgsbase smep erms
-bogomips	: 5600.16
+bogomips	: 5586.74
 clflush size	: 64
 cache_alignment	: 64
 address sizes	: 46 bits physical, 48 bits virtual
@@ -225,7 +225,7 @@ model		: 62
 model name	: Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz
 stepping	: 4
 microcode	: 0x428
-cpu MHz		: 2800.084
+cpu MHz		: 2793.370
 cache size	: 25600 KB
 physical id	: 1
 siblings	: 16
@@ -238,7 +238,7 @@ fpu_exception	: yes
 cpuid level	: 13
 wp		: yes
 flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology eagerfpu pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm xsaveopt fsgsbase smep erms
-bogomips	: 5673.90
+bogomips	: 5660.21
 clflush size	: 64
 cache_alignment	: 64
 address sizes	: 46 bits physical, 48 bits virtual
@@ -251,7 +251,7 @@ model		: 62
 model name	: Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz
 stepping	: 4
 microcode	: 0x428
-cpu MHz		: 2800.084
+cpu MHz		: 2793.370
 cache size	: 25600 KB
 physical id	: 1
 siblings	: 16
@@ -264,7 +264,7 @@ fpu_exception	: yes
 cpuid level	: 13
 wp		: yes
 flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology eagerfpu pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm xsaveopt fsgsbase smep erms
-bogomips	: 5673.90
+bogomips	: 5660.21
 clflush size	: 64
 cache_alignment	: 64
 address sizes	: 46 bits physical, 48 bits virtual
@@ -277,7 +277,7 @@ model		: 62
 model name	: Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz
 stepping	: 4
 microcode	: 0x428
-cpu MHz		: 2800.084
+cpu MHz		: 2793.370
 cache size	: 25600 KB
 physical id	: 1
 siblings	: 16
@@ -290,7 +290,7 @@ fpu_exception	: yes
 cpuid level	: 13
 wp		: yes
 flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology eagerfpu pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm xsaveopt fsgsbase smep erms
-bogomips	: 5673.90
+bogomips	: 5660.21
 clflush size	: 64
 cache_alignment	: 64
 address sizes	: 46 bits physical, 48 bits virtual
@@ -303,7 +303,7 @@ model		: 62
 model name	: Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz
 stepping	: 4
 microcode	: 0x428
-cpu MHz		: 2800.084
+cpu MHz		: 2793.370
 cache size	: 25600 KB
 physical id	: 1
 siblings	: 16
@@ -316,7 +316,7 @@ fpu_exception	: yes
 cpuid level	: 13
 wp		: yes
 flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology eagerfpu pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm xsaveopt fsgsbase smep erms
-bogomips	: 5673.90
+bogomips	: 5660.21
 clflush size	: 64
 cache_alignment	: 64
 address sizes	: 46 bits physical, 48 bits virtual
@@ -329,7 +329,7 @@ model		: 62
 model name	: Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz
 stepping	: 4
 microcode	: 0x428
-cpu MHz		: 2800.084
+cpu MHz		: 2793.370
 cache size	: 25600 KB
 physical id	: 1
 siblings	: 16
@@ -342,7 +342,7 @@ fpu_exception	: yes
 cpuid level	: 13
 wp		: yes
 flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology eagerfpu pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm xsaveopt fsgsbase smep erms
-bogomips	: 5673.90
+bogomips	: 5660.21
 clflush size	: 64
 cache_alignment	: 64
 address sizes	: 46 bits physical, 48 bits virtual
@@ -355,7 +355,7 @@ model		: 62
 model name	: Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz
 stepping	: 4
 microcode	: 0x428
-cpu MHz		: 2800.084
+cpu MHz		: 2793.370
 cache size	: 25600 KB
 physical id	: 1
 siblings	: 16
@@ -368,7 +368,7 @@ fpu_exception	: yes
 cpuid level	: 13
 wp		: yes
 flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology eagerfpu pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm xsaveopt fsgsbase smep erms
-bogomips	: 5673.90
+bogomips	: 5660.21
 clflush size	: 64
 cache_alignment	: 64
 address sizes	: 46 bits physical, 48 bits virtual
@@ -381,7 +381,7 @@ model		: 62
 model name	: Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz
 stepping	: 4
 microcode	: 0x428
-cpu MHz		: 2800.084
+cpu MHz		: 2793.370
 cache size	: 25600 KB
 physical id	: 1
 siblings	: 16
@@ -394,7 +394,7 @@ fpu_exception	: yes
 cpuid level	: 13
 wp		: yes
 flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology eagerfpu pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm xsaveopt fsgsbase smep erms
-bogomips	: 5673.90
+bogomips	: 5660.21
 clflush size	: 64
 cache_alignment	: 64
 address sizes	: 46 bits physical, 48 bits virtual
@@ -407,7 +407,7 @@ model		: 62
 model name	: Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz
 stepping	: 4
 microcode	: 0x428
-cpu MHz		: 2800.084
+cpu MHz		: 2793.370
 cache size	: 25600 KB
 physical id	: 1
 siblings	: 16
@@ -420,7 +420,7 @@ fpu_exception	: yes
 cpuid level	: 13
 wp		: yes
 flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology eagerfpu pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm xsaveopt fsgsbase smep erms
-bogomips	: 5673.90
+bogomips	: 5660.21
 clflush size	: 64
 cache_alignment	: 64
 address sizes	: 46 bits physical, 48 bits virtual
@@ -433,7 +433,7 @@ model		: 62
 model name	: Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz
 stepping	: 4
 microcode	: 0x428
-cpu MHz		: 2800.084
+cpu MHz		: 2793.370
 cache size	: 25600 KB
 physical id	: 0
 siblings	: 16
@@ -446,7 +446,7 @@ fpu_exception	: yes
 cpuid level	: 13
 wp		: yes
 flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology eagerfpu pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm xsaveopt fsgsbase smep erms
-bogomips	: 5600.16
+bogomips	: 5586.74
 clflush size	: 64
 cache_alignment	: 64
 address sizes	: 46 bits physical, 48 bits virtual
@@ -459,7 +459,7 @@ model		: 62
 model name	: Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz
 stepping	: 4
 microcode	: 0x428
-cpu MHz		: 2800.084
+cpu MHz		: 2793.370
 cache size	: 25600 KB
 physical id	: 0
 siblings	: 16
@@ -472,7 +472,7 @@ fpu_exception	: yes
 cpuid level	: 13
 wp		: yes
 flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology eagerfpu pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm xsaveopt fsgsbase smep erms
-bogomips	: 5600.16
+bogomips	: 5586.74
 clflush size	: 64
 cache_alignment	: 64
 address sizes	: 46 bits physical, 48 bits virtual
@@ -485,7 +485,7 @@ model		: 62
 model name	: Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz
 stepping	: 4
 microcode	: 0x428
-cpu MHz		: 2800.084
+cpu MHz		: 2793.370
 cache size	: 25600 KB
 physical id	: 0
 siblings	: 16
@@ -498,7 +498,7 @@ fpu_exception	: yes
 cpuid level	: 13
 wp		: yes
 flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology eagerfpu pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm xsaveopt fsgsbase smep erms
-bogomips	: 5600.16
+bogomips	: 5586.74
 clflush size	: 64
 cache_alignment	: 64
 address sizes	: 46 bits physical, 48 bits virtual
@@ -511,7 +511,7 @@ model		: 62
 model name	: Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz
 stepping	: 4
 microcode	: 0x428
-cpu MHz		: 2800.084
+cpu MHz		: 2793.370
 cache size	: 25600 KB
 physical id	: 0
 siblings	: 16
@@ -524,7 +524,7 @@ fpu_exception	: yes
 cpuid level	: 13
 wp		: yes
 flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology eagerfpu pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm xsaveopt fsgsbase smep erms
-bogomips	: 5600.16
+bogomips	: 5586.74
 clflush size	: 64
 cache_alignment	: 64
 address sizes	: 46 bits physical, 48 bits virtual
@@ -537,7 +537,7 @@ model		: 62
 model name	: Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz
 stepping	: 4
 microcode	: 0x428
-cpu MHz		: 2800.084
+cpu MHz		: 2793.370
 cache size	: 25600 KB
 physical id	: 0
 siblings	: 16
@@ -550,7 +550,7 @@ fpu_exception	: yes
 cpuid level	: 13
 wp		: yes
 flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology eagerfpu pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm xsaveopt fsgsbase smep erms
-bogomips	: 5600.16
+bogomips	: 5586.74
 clflush size	: 64
 cache_alignment	: 64
 address sizes	: 46 bits physical, 48 bits virtual
@@ -563,7 +563,7 @@ model		: 62
 model name	: Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz
 stepping	: 4
 microcode	: 0x428
-cpu MHz		: 2800.084
+cpu MHz		: 2793.370
 cache size	: 25600 KB
 physical id	: 0
 siblings	: 16
@@ -576,7 +576,7 @@ fpu_exception	: yes
 cpuid level	: 13
 wp		: yes
 flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology eagerfpu pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm xsaveopt fsgsbase smep erms
-bogomips	: 5600.16
+bogomips	: 5586.74
 clflush size	: 64
 cache_alignment	: 64
 address sizes	: 46 bits physical, 48 bits virtual
@@ -589,7 +589,7 @@ model		: 62
 model name	: Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz
 stepping	: 4
 microcode	: 0x428
-cpu MHz		: 2800.084
+cpu MHz		: 2793.370
 cache size	: 25600 KB
 physical id	: 0
 siblings	: 16
@@ -602,7 +602,7 @@ fpu_exception	: yes
 cpuid level	: 13
 wp		: yes
 flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology eagerfpu pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm xsaveopt fsgsbase smep erms
-bogomips	: 5600.16
+bogomips	: 5586.74
 clflush size	: 64
 cache_alignment	: 64
 address sizes	: 46 bits physical, 48 bits virtual
@@ -615,7 +615,7 @@ model		: 62
 model name	: Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz
 stepping	: 4
 microcode	: 0x428
-cpu MHz		: 2800.084
+cpu MHz		: 2793.370
 cache size	: 25600 KB
 physical id	: 0
 siblings	: 16
@@ -628,7 +628,7 @@ fpu_exception	: yes
 cpuid level	: 13
 wp		: yes
 flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology eagerfpu pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm xsaveopt fsgsbase smep erms
-bogomips	: 5600.16
+bogomips	: 5586.74
 clflush size	: 64
 cache_alignment	: 64
 address sizes	: 46 bits physical, 48 bits virtual
@@ -641,7 +641,7 @@ model		: 62
 model name	: Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz
 stepping	: 4
 microcode	: 0x428
-cpu MHz		: 2800.084
+cpu MHz		: 2793.370
 cache size	: 25600 KB
 physical id	: 1
 siblings	: 16
@@ -654,7 +654,7 @@ fpu_exception	: yes
 cpuid level	: 13
 wp		: yes
 flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology eagerfpu pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm xsaveopt fsgsbase smep erms
-bogomips	: 5673.90
+bogomips	: 5660.21
 clflush size	: 64
 cache_alignment	: 64
 address sizes	: 46 bits physical, 48 bits virtual
@@ -667,7 +667,7 @@ model		: 62
 model name	: Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz
 stepping	: 4
 microcode	: 0x428
-cpu MHz		: 2800.084
+cpu MHz		: 2793.370
 cache size	: 25600 KB
 physical id	: 1
 siblings	: 16
@@ -680,7 +680,7 @@ fpu_exception	: yes
 cpuid level	: 13
 wp		: yes
 flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology eagerfpu pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm xsaveopt fsgsbase smep erms
-bogomips	: 5673.90
+bogomips	: 5660.21
 clflush size	: 64
 cache_alignment	: 64
 address sizes	: 46 bits physical, 48 bits virtual
@@ -693,7 +693,7 @@ model		: 62
 model name	: Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz
 stepping	: 4
 microcode	: 0x428
-cpu MHz		: 2800.084
+cpu MHz		: 2793.370
 cache size	: 25600 KB
 physical id	: 1
 siblings	: 16
@@ -706,7 +706,7 @@ fpu_exception	: yes
 cpuid level	: 13
 wp		: yes
 flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology eagerfpu pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm xsaveopt fsgsbase smep erms
-bogomips	: 5673.90
+bogomips	: 5660.21
 clflush size	: 64
 cache_alignment	: 64
 address sizes	: 46 bits physical, 48 bits virtual
@@ -719,7 +719,7 @@ model		: 62
 model name	: Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz
 stepping	: 4
 microcode	: 0x428
-cpu MHz		: 2800.084
+cpu MHz		: 2793.370
 cache size	: 25600 KB
 physical id	: 1
 siblings	: 16
@@ -732,7 +732,7 @@ fpu_exception	: yes
 cpuid level	: 13
 wp		: yes
 flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology eagerfpu pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm xsaveopt fsgsbase smep erms
-bogomips	: 5673.90
+bogomips	: 5660.21
 clflush size	: 64
 cache_alignment	: 64
 address sizes	: 46 bits physical, 48 bits virtual
@@ -745,7 +745,7 @@ model		: 62
 model name	: Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz
 stepping	: 4
 microcode	: 0x428
-cpu MHz		: 2800.084
+cpu MHz		: 2793.370
 cache size	: 25600 KB
 physical id	: 1
 siblings	: 16
@@ -758,7 +758,7 @@ fpu_exception	: yes
 cpuid level	: 13
 wp		: yes
 flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology eagerfpu pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm xsaveopt fsgsbase smep erms
-bogomips	: 5673.90
+bogomips	: 5660.21
 clflush size	: 64
 cache_alignment	: 64
 address sizes	: 46 bits physical, 48 bits virtual
@@ -771,7 +771,7 @@ model		: 62
 model name	: Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz
 stepping	: 4
 microcode	: 0x428
-cpu MHz		: 2800.084
+cpu MHz		: 2793.370
 cache size	: 25600 KB
 physical id	: 1
 siblings	: 16
@@ -784,7 +784,7 @@ fpu_exception	: yes
 cpuid level	: 13
 wp		: yes
 flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology eagerfpu pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm xsaveopt fsgsbase smep erms
-bogomips	: 5673.90
+bogomips	: 5660.21
 clflush size	: 64
 cache_alignment	: 64
 address sizes	: 46 bits physical, 48 bits virtual
@@ -797,7 +797,7 @@ model		: 62
 model name	: Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz
 stepping	: 4
 microcode	: 0x428
-cpu MHz		: 2800.084
+cpu MHz		: 2793.370
 cache size	: 25600 KB
 physical id	: 1
 siblings	: 16
@@ -810,7 +810,7 @@ fpu_exception	: yes
 cpuid level	: 13
 wp		: yes
 flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology eagerfpu pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm xsaveopt fsgsbase smep erms
-bogomips	: 5673.90
+bogomips	: 5660.21
 clflush size	: 64
 cache_alignment	: 64
 address sizes	: 46 bits physical, 48 bits virtual
@@ -823,7 +823,7 @@ model		: 62
 model name	: Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz
 stepping	: 4
 microcode	: 0x428
-cpu MHz		: 2800.084
+cpu MHz		: 2793.370
 cache size	: 25600 KB
 physical id	: 1
 siblings	: 16
@@ -836,7 +836,7 @@ fpu_exception	: yes
 cpuid level	: 13
 wp		: yes
 flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology eagerfpu pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm xsaveopt fsgsbase smep erms
-bogomips	: 5673.90
+bogomips	: 5660.21
 clflush size	: 64
 cache_alignment	: 64
 address sizes	: 46 bits physical, 48 bits virtual
@@ -844,47 +844,47 @@ power management:
 
 # --- MEM ---
 MemTotal:       61836076 kB
-MemFree:        32384832 kB
-Buffers:           65088 kB
-Cached:         15304392 kB
+MemFree:        36982464 kB
+Buffers:           79540 kB
+Cached:         15422768 kB
 SwapCached:            0 kB
-Active:         15045012 kB
-Inactive:        9779192 kB
-Active(anon):    9468800 kB
-Inactive(anon):   137392 kB
-Active(file):    5576212 kB
-Inactive(file):  9641800 kB
+Active:         10266668 kB
+Inactive:        9426840 kB
+Active(anon):    4212280 kB
+Inactive(anon):   169540 kB
+Active(file):    6054388 kB
+Inactive(file):  9257300 kB
 Unevictable:           0 kB
 Mlocked:               0 kB
 SwapTotal:             0 kB
 SwapFree:              0 kB
-Dirty:            406196 kB
-Writeback:           128 kB
-AnonPages:       9457140 kB
-Mapped:           520596 kB
-Shmem:            149144 kB
-Slab:            3427596 kB
-SReclaimable:    3098896 kB
-SUnreclaim:       328700 kB
-KernelStack:       16176 kB
-PageTables:        59412 kB
+Dirty:            563776 kB
+Writeback:             0 kB
+AnonPages:       4191436 kB
+Mapped:           637452 kB
+Shmem:            190376 kB
+Slab:            3864504 kB
+SReclaimable:    3502764 kB
+SUnreclaim:       361740 kB
+KernelStack:       13944 kB
+PageTables:        50860 kB
 NFS_Unstable:          0 kB
 Bounce:                0 kB
 WritebackTmp:          0 kB
 CommitLimit:    30918036 kB
-Committed_AS:   21435016 kB
+Committed_AS:   17740480 kB
 VmallocTotal:   34359738367 kB
-VmallocUsed:      507328 kB
-VmallocChunk:   34327603008 kB
+VmallocUsed:      609872 kB
+VmallocChunk:   34327504896 kB
 HardwareCorrupted:     0 kB
-AnonHugePages:   3895296 kB
+AnonHugePages:   2314240 kB
 HugePages_Total:       0
 HugePages_Free:        0
 HugePages_Rsvd:        0
 HugePages_Surp:        0
 Hugepagesize:       2048 kB
-DirectMap4k:      100352 kB
-DirectMap2M:    62945280 kB
+DirectMap4k:       94208 kB
+DirectMap2M:    62951424 kB
 # --- JAVA ---
 java version "1.8.0_31"
 Java(TM) SE Runtime Environment (build 1.8.0_31-b13)

@@ -65,268 +65,268 @@ in default pack?
 in default pack? 
 in default pack? 
 in default pack? 
-Feb 14, 2016 9:00:02 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaProcessor setOutputFile
+Feb 14, 2016 9:42:32 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaProcessor setOutputFile
 WARNING: Using default wsdl/idl filenames...
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: Unsupported Attribute Found in CORBA Binding Generation:{http://apache.org/type_test/types1}attribUnion
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/types1}varUnion
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: Unsupported Attribute Found in CORBA Binding Generation:{http://apache.org/type_test/types1}attribList
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: Unsupported Attribute Found in CORBA Binding Generation:{http://apache.org/type_test/types1}attribUnion
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/types1}varUnion
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: Unsupported Attribute Found in CORBA Binding Generation:{http://apache.org/type_test/types1}attribList
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unknown particle type org.apache.ws.commons.schema.XmlSchemaGroupRef
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: class org.apache.ws.commons.schema.XmlSchemaAttributeGroupRef not supported in CORBA binding.  Skipping.
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: class org.apache.ws.commons.schema.XmlSchemaAttributeGroupRef not supported in CORBA binding.  Skipping.
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: Unsupported Attribute Found in CORBA Binding Generation:{http://apache.org/type_test/types1}attribUnion
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/types1}varUnion
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: Unsupported Attribute Found in CORBA Binding Generation:{http://apache.org/type_test/types1}attribUnion
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/types1}varUnion
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: Unsupported Attribute Found in CORBA Binding Generation:{http://apache.org/type_test/types1}attribUnion
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/types1}varUnion
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unknown particle type org.apache.ws.commons.schema.XmlSchemaGroupRef
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unknown particle type org.apache.ws.commons.schema.XmlSchemaGroupRef
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}x
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}y
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}return
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}y
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}z
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}return
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}y
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}z
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}return
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}y
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}z
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: class org.apache.ws.commons.schema.XmlSchemaAttributeGroupRef not supported in CORBA binding.  Skipping.
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: class org.apache.ws.commons.schema.XmlSchemaAttributeGroupRef not supported in CORBA binding.  Skipping.
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: class org.apache.ws.commons.schema.XmlSchemaAttributeGroupRef not supported in CORBA binding.  Skipping.
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}x
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}y
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: class org.apache.ws.commons.schema.XmlSchemaAttributeGroupRef not supported in CORBA binding.  Skipping.
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: class org.apache.ws.commons.schema.XmlSchemaAttributeGroupRef not supported in CORBA binding.  Skipping.
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: Unsupported Attribute Found in CORBA Binding Generation:{http://apache.org/type_test/types1}attribUnion
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/types1}varUnion
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: Unsupported Attribute Found in CORBA Binding Generation:{http://apache.org/type_test/types1}attribUnion
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/types1}varUnion
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}return
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}y
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}z
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: Unsupported Attribute Found in CORBA Binding Generation:{http://apache.org/type_test/types1}attribList
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: Unsupported Attribute Found in CORBA Binding Generation:{http://apache.org/type_test/types1}attribList
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: Unsupported Attribute Found in CORBA Binding Generation:{http://apache.org/type_test/types1}attribList
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}return
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}y
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}z
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}return
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}y
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}z
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}x
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}y
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}return
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}y
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}z
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: class org.apache.ws.commons.schema.XmlSchemaAttributeGroupRef not supported in CORBA binding.  Skipping.
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: class org.apache.ws.commons.schema.XmlSchemaAttributeGroupRef not supported in CORBA binding.  Skipping.
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: class org.apache.ws.commons.schema.XmlSchemaAttributeGroupRef not supported in CORBA binding.  Skipping.
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}x
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}y
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: Unsupported Attribute Found in CORBA Binding Generation:{http://apache.org/type_test/types1}attribList
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: Unsupported Attribute Found in CORBA Binding Generation:{http://apache.org/type_test/types1}attribList
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: class org.apache.ws.commons.schema.XmlSchemaAttributeGroupRef not supported in CORBA binding.  Skipping.
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: class org.apache.ws.commons.schema.XmlSchemaAttributeGroupRef not supported in CORBA binding.  Skipping.
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}return
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}y
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}z
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unknown particle type org.apache.ws.commons.schema.XmlSchemaGroupRef
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unknown particle type org.apache.ws.commons.schema.XmlSchemaGroupRef
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unknown particle type org.apache.ws.commons.schema.XmlSchemaGroupRef
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}return
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}y
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}z
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}x
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}y
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}x
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}y
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}x
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}y
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}x
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}y
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}x
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}y
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unknown particle type org.apache.ws.commons.schema.XmlSchemaGroupRef
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: class org.apache.ws.commons.schema.XmlSchemaAttributeGroupRef not supported in CORBA binding.  Skipping.
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: class org.apache.ws.commons.schema.XmlSchemaAttributeGroupRef not supported in CORBA binding.  Skipping.
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaBinding addBindingOperations
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaBinding addBindingOperations
 WARNING: Operation testNMTOKENS not mapped to CORBA binding.
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaBinding addBindingOperations
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaBinding addBindingOperations
 WARNING: Operation testSimpleUnionList not mapped to CORBA binding.
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaBinding addBindingOperations
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaBinding addBindingOperations
 WARNING: Operation testAnonUnionList not mapped to CORBA binding.
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaBinding addBindingOperations
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaBinding addBindingOperations
 WARNING: Operation testSimpleUnion not mapped to CORBA binding.
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaBinding addBindingOperations
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaBinding addBindingOperations
 WARNING: Operation testUnionWithAnonEnum not mapped to CORBA binding.
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaBinding addBindingOperations
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaBinding addBindingOperations
 WARNING: Operation testUnionWithStringList not mapped to CORBA binding.
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaBinding addBindingOperations
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaBinding addBindingOperations
 WARNING: Operation testUnionWithStringListRestriction not mapped to CORBA binding.
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaBinding addBindingOperations
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaBinding addBindingOperations
 WARNING: Operation testUnionWithAnonList not mapped to CORBA binding.
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: Unsupported Attribute Found in CORBA Binding Generation:{http://apache.org/type_test/types1}attribList
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: Unsupported Attribute Found in CORBA Binding Generation:{http://apache.org/type_test/types1}attribList
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: Unsupported Attribute Found in CORBA Binding Generation:{http://apache.org/type_test/types1}attribList
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: Unsupported Attribute Found in CORBA Binding Generation:{http://apache.org/type_test/types1}attribList
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: Unsupported Attribute Found in CORBA Binding Generation:{http://apache.org/type_test/types1}attribList
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: Unsupported Attribute Found in CORBA Binding Generation:{http://apache.org/type_test/types1}attribUnion
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/types1}varUnion
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: Unsupported Attribute Found in CORBA Binding Generation:{http://apache.org/type_test/types1}attribUnion
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/types1}varUnion
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: Unsupported Attribute Found in CORBA Binding Generation:{http://apache.org/type_test/types1}attribUnion
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/types1}varUnion
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: Unsupported Attribute Found in CORBA Binding Generation:{http://apache.org/type_test/types1}attribUnion
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/types1}varUnion
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: Unsupported Attribute Found in CORBA Binding Generation:{http://apache.org/type_test/types1}attribUnion
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/types1}varUnion
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaBinding addBindingOperations
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaBinding addBindingOperations
 WARNING: Operation testUnionSimpleContent not mapped to CORBA binding.
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: class org.apache.ws.commons.schema.XmlSchemaAttributeGroupRef not supported in CORBA binding.  Skipping.
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: class org.apache.ws.commons.schema.XmlSchemaAttributeGroupRef not supported in CORBA binding.  Skipping.
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: class org.apache.ws.commons.schema.XmlSchemaAttributeGroupRef not supported in CORBA binding.  Skipping.
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: class org.apache.ws.commons.schema.XmlSchemaAttributeGroupRef not supported in CORBA binding.  Skipping.
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: class org.apache.ws.commons.schema.XmlSchemaAttributeGroupRef not supported in CORBA binding.  Skipping.
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: class org.apache.ws.commons.schema.XmlSchemaAttributeGroupRef not supported in CORBA binding.  Skipping.
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: class org.apache.ws.commons.schema.XmlSchemaAttributeGroupRef not supported in CORBA binding.  Skipping.
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: class org.apache.ws.commons.schema.XmlSchemaAttributeGroupRef not supported in CORBA binding.  Skipping.
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: class org.apache.ws.commons.schema.XmlSchemaAttributeGroupRef not supported in CORBA binding.  Skipping.
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: class org.apache.ws.commons.schema.XmlSchemaAttributeGroupRef not supported in CORBA binding.  Skipping.
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unknown particle type org.apache.ws.commons.schema.XmlSchemaGroupRef
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unknown particle type org.apache.ws.commons.schema.XmlSchemaGroupRef
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unknown particle type org.apache.ws.commons.schema.XmlSchemaGroupRef
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unknown particle type org.apache.ws.commons.schema.XmlSchemaGroupRef
-Feb 14, 2016 9:00:04 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 9:42:33 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unknown particle type org.apache.ws.commons.schema.XmlSchemaGroupRef
-Feb 14, 2016 9:00:53 PM org.apache.cxf.common.jaxb.JAXBUtils logGeneratedClassNames
+Feb 14, 2016 9:43:25 PM org.apache.cxf.common.jaxb.JAXBUtils logGeneratedClassNames
 INFO: Created classes: org.apache.cxf.systest.jaxrs.codegen.schema.Book, org.apache.cxf.systest.jaxrs.codegen.schema.Book2, org.apache.cxf.systest.jaxrs.codegen.schema.Chapter, org.apache.cxf.systest.jaxrs.codegen.schema.ObjectFactory
-Feb 14, 2016 9:02:06 PM org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean buildServiceFromClass
+Feb 14, 2016 9:44:43 PM org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean buildServiceFromClass
 INFO: Creating Service {http://java2ws.systests.cxf.apache.org/}HelloWorldService from class org.apache.cxf.systests.java2ws.HelloWorld
 
-real	22m11.958s
-user	28m1.635s
-sys	0m47.663s
+real	21m53.160s
+user	28m18.087s
+sys	0m45.538s
 Java HotSpot(TM) 64-Bit Server VM warning: ignoring option MaxPermSize=192m; support was removed in 8.0
 Java HotSpot(TM) 64-Bit Server VM warning: ignoring option MaxPermSize=192m; support was removed in 8.0
 in default pack? 
@@ -395,265 +395,265 @@ in default pack?
 in default pack? 
 in default pack? 
 in default pack? 
-Feb 14, 2016 9:18:25 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaProcessor setOutputFile
+Feb 14, 2016 10:04:08 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaProcessor setOutputFile
 WARNING: Using default wsdl/idl filenames...
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: Unsupported Attribute Found in CORBA Binding Generation:{http://apache.org/type_test/types1}attribUnion
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/types1}varUnion
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: Unsupported Attribute Found in CORBA Binding Generation:{http://apache.org/type_test/types1}attribList
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: Unsupported Attribute Found in CORBA Binding Generation:{http://apache.org/type_test/types1}attribUnion
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/types1}varUnion
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: Unsupported Attribute Found in CORBA Binding Generation:{http://apache.org/type_test/types1}attribList
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unknown particle type org.apache.ws.commons.schema.XmlSchemaGroupRef
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: class org.apache.ws.commons.schema.XmlSchemaAttributeGroupRef not supported in CORBA binding.  Skipping.
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: class org.apache.ws.commons.schema.XmlSchemaAttributeGroupRef not supported in CORBA binding.  Skipping.
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: Unsupported Attribute Found in CORBA Binding Generation:{http://apache.org/type_test/types1}attribUnion
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/types1}varUnion
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: Unsupported Attribute Found in CORBA Binding Generation:{http://apache.org/type_test/types1}attribUnion
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/types1}varUnion
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: Unsupported Attribute Found in CORBA Binding Generation:{http://apache.org/type_test/types1}attribUnion
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/types1}varUnion
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unknown particle type org.apache.ws.commons.schema.XmlSchemaGroupRef
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unknown particle type org.apache.ws.commons.schema.XmlSchemaGroupRef
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}x
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}y
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}return
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}y
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}z
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}return
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}y
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}z
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}return
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}y
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}z
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: class org.apache.ws.commons.schema.XmlSchemaAttributeGroupRef not supported in CORBA binding.  Skipping.
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: class org.apache.ws.commons.schema.XmlSchemaAttributeGroupRef not supported in CORBA binding.  Skipping.
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: class org.apache.ws.commons.schema.XmlSchemaAttributeGroupRef not supported in CORBA binding.  Skipping.
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}x
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}y
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: class org.apache.ws.commons.schema.XmlSchemaAttributeGroupRef not supported in CORBA binding.  Skipping.
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: class org.apache.ws.commons.schema.XmlSchemaAttributeGroupRef not supported in CORBA binding.  Skipping.
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: Unsupported Attribute Found in CORBA Binding Generation:{http://apache.org/type_test/types1}attribUnion
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/types1}varUnion
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: Unsupported Attribute Found in CORBA Binding Generation:{http://apache.org/type_test/types1}attribUnion
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/types1}varUnion
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}return
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}y
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}z
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: Unsupported Attribute Found in CORBA Binding Generation:{http://apache.org/type_test/types1}attribList
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: Unsupported Attribute Found in CORBA Binding Generation:{http://apache.org/type_test/types1}attribList
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: Unsupported Attribute Found in CORBA Binding Generation:{http://apache.org/type_test/types1}attribList
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}return
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}y
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}z
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}return
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}y
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}z
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}x
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}y
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}return
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}y
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}z
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: class org.apache.ws.commons.schema.XmlSchemaAttributeGroupRef not supported in CORBA binding.  Skipping.
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: class org.apache.ws.commons.schema.XmlSchemaAttributeGroupRef not supported in CORBA binding.  Skipping.
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: class org.apache.ws.commons.schema.XmlSchemaAttributeGroupRef not supported in CORBA binding.  Skipping.
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}x
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}y
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: Unsupported Attribute Found in CORBA Binding Generation:{http://apache.org/type_test/types1}attribList
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: Unsupported Attribute Found in CORBA Binding Generation:{http://apache.org/type_test/types1}attribList
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: class org.apache.ws.commons.schema.XmlSchemaAttributeGroupRef not supported in CORBA binding.  Skipping.
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: class org.apache.ws.commons.schema.XmlSchemaAttributeGroupRef not supported in CORBA binding.  Skipping.
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}return
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}y
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}z
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unknown particle type org.apache.ws.commons.schema.XmlSchemaGroupRef
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unknown particle type org.apache.ws.commons.schema.XmlSchemaGroupRef
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unknown particle type org.apache.ws.commons.schema.XmlSchemaGroupRef
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}return
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}y
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}z
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}x
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}y
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}x
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}y
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}x
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}y
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}x
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}y
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}x
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/doc}y
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unknown particle type org.apache.ws.commons.schema.XmlSchemaGroupRef
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: class org.apache.ws.commons.schema.XmlSchemaAttributeGroupRef not supported in CORBA binding.  Skipping.
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: class org.apache.ws.commons.schema.XmlSchemaAttributeGroupRef not supported in CORBA binding.  Skipping.
-Feb 14, 2016 9:18:26 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaBinding addBindingOperations
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaBinding addBindingOperations
 WARNING: Operation testNMTOKENS not mapped to CORBA binding.
-Feb 14, 2016 9:18:27 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaBinding addBindingOperations
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaBinding addBindingOperations
 WARNING: Operation testSimpleUnionList not mapped to CORBA binding.
-Feb 14, 2016 9:18:27 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaBinding addBindingOperations
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaBinding addBindingOperations
 WARNING: Operation testAnonUnionList not mapped to CORBA binding.
-Feb 14, 2016 9:18:27 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaBinding addBindingOperations
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaBinding addBindingOperations
 WARNING: Operation testSimpleUnion not mapped to CORBA binding.
-Feb 14, 2016 9:18:27 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaBinding addBindingOperations
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaBinding addBindingOperations
 WARNING: Operation testUnionWithAnonEnum not mapped to CORBA binding.
-Feb 14, 2016 9:18:27 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaBinding addBindingOperations
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaBinding addBindingOperations
 WARNING: Operation testUnionWithStringList not mapped to CORBA binding.
-Feb 14, 2016 9:18:27 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaBinding addBindingOperations
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaBinding addBindingOperations
 WARNING: Operation testUnionWithStringListRestriction not mapped to CORBA binding.
-Feb 14, 2016 9:18:27 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaBinding addBindingOperations
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaBinding addBindingOperations
 WARNING: Operation testUnionWithAnonList not mapped to CORBA binding.
-Feb 14, 2016 9:18:27 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: Unsupported Attribute Found in CORBA Binding Generation:{http://apache.org/type_test/types1}attribList
-Feb 14, 2016 9:18:27 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: Unsupported Attribute Found in CORBA Binding Generation:{http://apache.org/type_test/types1}attribList
-Feb 14, 2016 9:18:27 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: Unsupported Attribute Found in CORBA Binding Generation:{http://apache.org/type_test/types1}attribList
-Feb 14, 2016 9:18:27 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: Unsupported Attribute Found in CORBA Binding Generation:{http://apache.org/type_test/types1}attribList
-Feb 14, 2016 9:18:27 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: Unsupported Attribute Found in CORBA Binding Generation:{http://apache.org/type_test/types1}attribList
-Feb 14, 2016 9:18:27 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: Unsupported Attribute Found in CORBA Binding Generation:{http://apache.org/type_test/types1}attribUnion
-Feb 14, 2016 9:18:27 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/types1}varUnion
-Feb 14, 2016 9:18:27 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: Unsupported Attribute Found in CORBA Binding Generation:{http://apache.org/type_test/types1}attribUnion
-Feb 14, 2016 9:18:27 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/types1}varUnion
-Feb 14, 2016 9:18:27 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: Unsupported Attribute Found in CORBA Binding Generation:{http://apache.org/type_test/types1}attribUnion
-Feb 14, 2016 9:18:27 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/types1}varUnion
-Feb 14, 2016 9:18:27 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: Unsupported Attribute Found in CORBA Binding Generation:{http://apache.org/type_test/types1}attribUnion
-Feb 14, 2016 9:18:27 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/types1}varUnion
-Feb 14, 2016 9:18:27 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: Unsupported Attribute Found in CORBA Binding Generation:{http://apache.org/type_test/types1}attribUnion
-Feb 14, 2016 9:18:27 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unsupported Element Found in CORBA Binding Generation:{http://apache.org/type_test/types1}varUnion
-Feb 14, 2016 9:18:27 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaBinding addBindingOperations
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaBinding addBindingOperations
 WARNING: Operation testUnionSimpleContent not mapped to CORBA binding.
-Feb 14, 2016 9:18:27 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: class org.apache.ws.commons.schema.XmlSchemaAttributeGroupRef not supported in CORBA binding.  Skipping.
-Feb 14, 2016 9:18:27 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: class org.apache.ws.commons.schema.XmlSchemaAttributeGroupRef not supported in CORBA binding.  Skipping.
-Feb 14, 2016 9:18:27 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: class org.apache.ws.commons.schema.XmlSchemaAttributeGroupRef not supported in CORBA binding.  Skipping.
-Feb 14, 2016 9:18:27 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: class org.apache.ws.commons.schema.XmlSchemaAttributeGroupRef not supported in CORBA binding.  Skipping.
-Feb 14, 2016 9:18:27 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: class org.apache.ws.commons.schema.XmlSchemaAttributeGroupRef not supported in CORBA binding.  Skipping.
-Feb 14, 2016 9:18:27 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: class org.apache.ws.commons.schema.XmlSchemaAttributeGroupRef not supported in CORBA binding.  Skipping.
-Feb 14, 2016 9:18:27 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: class org.apache.ws.commons.schema.XmlSchemaAttributeGroupRef not supported in CORBA binding.  Skipping.
-Feb 14, 2016 9:18:27 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: class org.apache.ws.commons.schema.XmlSchemaAttributeGroupRef not supported in CORBA binding.  Skipping.
-Feb 14, 2016 9:18:27 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: class org.apache.ws.commons.schema.XmlSchemaAttributeGroupRef not supported in CORBA binding.  Skipping.
-Feb 14, 2016 9:18:27 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processAttributesAsMembers
 WARNING: class org.apache.ws.commons.schema.XmlSchemaAttributeGroupRef not supported in CORBA binding.  Skipping.
-Feb 14, 2016 9:18:27 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unknown particle type org.apache.ws.commons.schema.XmlSchemaGroupRef
-Feb 14, 2016 9:18:27 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unknown particle type org.apache.ws.commons.schema.XmlSchemaGroupRef
-Feb 14, 2016 9:18:27 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unknown particle type org.apache.ws.commons.schema.XmlSchemaGroupRef
-Feb 14, 2016 9:18:27 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unknown particle type org.apache.ws.commons.schema.XmlSchemaGroupRef
-Feb 14, 2016 9:18:27 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
+Feb 14, 2016 10:04:10 PM org.apache.cxf.tools.corba.processors.wsdl.WSDLToCorbaHelper processContainerAsMembers
 WARNING: Unknown particle type org.apache.ws.commons.schema.XmlSchemaGroupRef
-Feb 14, 2016 9:19:15 PM org.apache.cxf.common.jaxb.JAXBUtils logGeneratedClassNames
+Feb 14, 2016 10:05:13 PM org.apache.cxf.common.jaxb.JAXBUtils logGeneratedClassNames
 INFO: Created classes: org.apache.cxf.systest.jaxrs.codegen.schema.Book, org.apache.cxf.systest.jaxrs.codegen.schema.Book2, org.apache.cxf.systest.jaxrs.codegen.schema.Chapter, org.apache.cxf.systest.jaxrs.codegen.schema.ObjectFactory
-Feb 14, 2016 9:20:27 PM org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean buildServiceFromClass
+Feb 14, 2016 10:06:32 PM org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean buildServiceFromClass
 INFO: Creating Service {http://java2ws.systests.cxf.apache.org/}HelloWorldService from class org.apache.cxf.systests.java2ws.HelloWorld
 
-real	17m55.574s
-user	27m5.210s
-sys	0m40.307s
+real	21m1.244s
+user	31m39.315s
+sys	0m50.110s
